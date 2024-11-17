@@ -11,8 +11,11 @@ This case study focuses on the Lending Club platform, which facilitates peer-to-
 ## General Information
 **Data Overview:**
 The dataset includes various features, such as:
+
 **Loan details:** loan amount, interest rate, purpose, installment.
+
 **Borrower details:** income, employment length, home ownership score, Annual income, grade , purpose etc.
+
 **Loan status:** whether the loan was paid off or defaulted.
 
 **Approach:**
